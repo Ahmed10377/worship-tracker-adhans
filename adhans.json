@@ -1,7 +1,67 @@
 [
   {
     "id": "nasr_tobar",
-    "name":"نصر الدين طوبار",
+    "name": "الشيخ نصر الدين طوبار",
     "file": "nasr_tobar.mp3"
+  },
+  {
+    "id": "yasser_dosari",
+    "name": "الشيخ ياسر الدوسري",
+    "file": "yasser_dosari.mp3"
+  },
+  {
+    "id": "nayef_faydah",
+    "name": "الشيخ نايف فيده",
+    "file": "nayef_faydah.mp3"
+  },
+  {
+    "id": "hamad_daghriri",
+    "name": "الشيخ حمد دغريري",
+    "file": "hamad_daghriri.mp3"
+  },
+  {
+    "id": "essam_khan",
+    "name": "الشيخ عصام خان",
+    "file": "essam_khan.mp3"
+  },
+  {
+    "id": "mohamed_serag",
+    "name": "الشيخ محمد سراج معروف",
+    "file": "mohamed_serag.mp3"
+  },
+  {
+    "id": "essam_bukhari",
+    "name": "الشيخ عصام بخاري",
+    "file": "essam_bukhari.mp3"
+  },
+  {
+    "id": "mohamed_refaat",
+    "name": "الشيخ محمد رفعت",
+    "file": "mohamed_refaat.mp3"
+  },
+  {
+    "id": "minshawi_adhan",
+    "name": "الشيخ محمد صديق المنشاوي",
+    "file": "minshawi_adhan.mp3"
+  },
+  {
+    "id": "surayhi_adhan",
+    "name": "الشيخ عبد المجيد السريحي",
+    "file": "surayhi_adhan.mp3"
+  },
+  {
+    "id": "nasser_qatami",
+    "name": "الشيخ ناصر القطامي",
+    "file": "nasser_qatami.mp3"
+  },
+  {
+    "id": "ahmed_nafees",
+    "name": "الشيخ أحمد نفيس",
+    "file": "ahmed_nafees.mp3"
+  },
+  {
+    "id": "aqsa_naji_qazzaz",
+    "name": "أذان المسجد الأقصى - ناجي قزاز",
+    "file": "aqsa_naji_qazzaz.mp3"
   }
 ]
